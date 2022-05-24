@@ -1,8 +1,7 @@
 ### Hi there 👋
 #### I am Mohammadmehdi Khani
 #### I'm 4th year CE student at Shahid Beheshti unversity
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadmehdiKhani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
-" >
+<img src="https://github-readme-stats.vercel.app/api?username=MohammadmehdiKhani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 🌀🌪
 <!--
