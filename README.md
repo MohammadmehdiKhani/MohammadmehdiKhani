@@ -2,7 +2,9 @@
 
 # Mo.Khani 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadmehdiKhani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mohammadmehdikhani"><img src="https://github-readme-stats.vercel.app/api?username=mohammadmehdikhani&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="mo.khani's github stats" /></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadmehdiKhani&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me
 <p align="left">
